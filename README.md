@@ -169,7 +169,7 @@ redbird.register('localhost', 'http://localhost:8082', {ssl: true});
 
 3) Test it:
 
-Point your browser to ```localhost:8000``` and you will see how it automatically redirects to your https server and proxies you to
+Point your browser to ```localhost:8080``` and you will see how it automatically redirects to your https server and proxies you to
 your target server.
 
 
